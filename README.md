@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN stack project
+- 🔭 I’m currently working on MERN project
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about Backend development
